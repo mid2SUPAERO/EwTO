@@ -1,5 +1,5 @@
 # EwTO
-Topology Optimization  Ecodesign with Topology Optimization 
+Ecodesign with Topology Optimization 
 
 Please cite us:
 

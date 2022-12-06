@@ -1,9 +1,10 @@
 # EwTO
-Ecodesign with Topology Optimization 
+Ecodesign with Topology Optimization [paper](https://www.sciencedirect.com/science/article/pii/S2212827122007272)
 
 Please cite us:
 
 DURIEZ, Edouard, MORLIER, Joseph, AZZARO-PANTEL, Catherine, et al. Ecodesign with topology optimization. Procedia CIRP, 2022, vol. 109, p. 454-459.
+
 
 @article{duriez2022ecodesign,
   title={Ecodesign with topology optimization},
